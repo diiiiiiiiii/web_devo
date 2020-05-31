@@ -92,9 +92,12 @@ flex: 1 1 100%;
 }
 .action__title-sub{
     font-weight: bold;
+
     font-size: 1.5rem;
     line-height: 1.5;
     margin-top:16px;
+
+  
 
 }
 .action__text{
@@ -145,10 +148,10 @@ flex: 1 1 100%;
     flex: 1 1 100%;
     display: flex;
     justify-content: space-between;
-    border-bottom: 2px solid rgba(0, 0, 0, 0.5);
-    font-weight: 500;
-    padding-bottom: 16px;
+
+
 }
+
 .action__title-header{
      text-transform: uppercase;
      font-weight: bold;
@@ -163,10 +166,6 @@ flex: 1 1 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-
-
-
-
 }
 
 
@@ -179,17 +178,14 @@ flex: 1 1 100%;
 
 
 
-
 }
 .post > .post__text {
   align-items:flex-start;
 
 }
+
 .post__img{
     flex: 0 0 35%;
-
-
-
 
 }
 .post__img > img{
@@ -197,6 +193,7 @@ flex: 1 1 100%;
 
 }
 .post__text{
+
   flex: 0 0 65%;
 
    display: flex;
